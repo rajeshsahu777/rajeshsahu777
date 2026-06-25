@@ -3,22 +3,22 @@
 
 Email Me 👉 ✉️ **rajeshrushikeshsahu1947@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:**🚗 AI Dashcam Project – Advanced Driver Assistance System (ADAS) with YOLOv8, ESP32, Raspberry Pi 4, and IMU/Ultrasonic sensors for real-time traffic detection and collision alerts.**
+- 🔭 I’m currently working on:**🚗 AI Dashcam Project – Advanced Driver Assistance System (ADAS) with YOLOv8, ESP32, Raspberry Pi 4, and IMU/Ultrasonic sensors for real-time traffic detection and collision alerts.**
 - **📊 Real Estate AIML Project – Hybrid chatbot + ML model for property price prediction and user interaction.**
-- 🌱 **I’m currently learning:**🧠 AI/ML workflows in computer vision, geospatial systems, and sensor integration**
-- 👯 **I’m looking to collaborate on:**🚦 Indian Traffic Detection Pipeline – YOLOv8 + local datasets for smart city applications
+- 🌱 I’m currently learning:**🧠 AI/ML workflows in computer vision, geospatial systems, and sensor integration**
+- 👯 I’m looking to collaborate on:**🚦 Indian Traffic Detection Pipeline – YOLOv8 + local datasets for smart city applications
 🛠️ IoT + AI Projects – ESP32, Raspberry Pi, and real-time dashboards**
-- 🤔 **I’m looking for help with:**🔧 Sensor noise troubleshooting in collision detection logic
+- 🤔 I’m looking for help with:**🔧 Sensor noise troubleshooting in collision detection logic
 🖥️ Optimizing GUI dashboards for Waveshare 7-inch displays
 📈 Scaling ML pipelines for production-ready deployment**
 - 💬 **Ask me about:**✅ Software Development (Python, Java, OOP, DBMS)
 ✅ AI/ML dataset preparation & automation**
-- 📫 **How to reach me:**rajeshrushikeshsahu1947@gmail.com**
-- 😄 **Pronouns:**RAJ**
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
-- 
+- 📫 How to reach me:**rajeshrushikeshsahu1947@gmail.com**
+- 😄 Pronouns:**RAJ**
+- ⚡ Fun fact:**I Love Tech and Tech Love Me**
+-  
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rajeshsahu0177) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Rajesh Sahu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rajesh-sahu-a83936344) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Rajesh_Sahu_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@RajeshSahu0707) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajeshrushikeshsahu1947@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rajeshsahu0177) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RajeshSahu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rajesh-sahu-a83936344) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Rajesh_Sahu_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@RajeshSahu0707) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajeshrushikeshsahu1947@gmail.com) 
 
 
 
