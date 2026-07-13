@@ -1,7 +1,13 @@
-# 💫 Hi 👋, I'm Rajesh Sahu
-**A passionate Software Developer || AI/ML Engineer**
+<div align="center">
 
-Email Me 👉 ✉️ **rajeshrushikeshsahu1947@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<!-- ANIMATED BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a1a4e,100:0d0d2b&height=200&section=header&text=Rajesh%20Rushikesh%20Sahu&fontSize=50&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Open%20Source%20Contributor"/>
+
+<!-- TYPING ANIMATION -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Software+Developer;AI+%26+Machine+Learning+Engineer;Computer+Vision+Developer;Building+Real-Time+AI+Applications;Open+Source+Contributor" />
+</p>
+</div>
 
 - 🔭 I’m currently working on:**🚗 AI Dashcam Project – Advanced Driver Assistance System (ADAS) with YOLOv8, ESP32, Raspberry Pi 4, and IMU/Ultrasonic sensors for real-time traffic detection and collision alerts.**
 - **📊 Real Estate AIML Project – Hybrid chatbot + ML model for property price prediction and user interaction.**
