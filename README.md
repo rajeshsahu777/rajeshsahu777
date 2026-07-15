@@ -35,16 +35,24 @@
 ![](https://streak-stats.demolab.com/?user=rajeshsahu777&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rajeshsahu777&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rajeshsahu777&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rajeshsahu777&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=rajeshsahu777&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<br/>
+
+> 🔮 *"Exploring the future of AI and Computer Vision to craft solutions that matter."*
+> 
+> **— Rajesh Rushikesh Sahu**
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,50:1a1a4e,100:0d0d2b&height=120&section=footer&text=Thanks%20for%20visiting%20my%20cosmic%20space!%20🚀&fontSize=18&fontColor=00F5FF&animation=fadeIn"/>
+
+</div>
